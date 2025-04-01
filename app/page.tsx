@@ -230,15 +230,16 @@ export default function Portfolio() {
             <div>
               <h3 className="text-xl font-semibold mb-4">Tools & Others</h3>
               <div className="flex flex-wrap gap-3">
+                <SkillBadge name="Agile" />
                 <SkillBadge name="AWS" />
                 <SkillBadge name="Azure" />
+                <SkillBadge name="CI/CD" />
+                <SkillBadge name="Cloudflare" />
+                <SkillBadge name="Figma" />
                 <SkillBadge name="Git" />
                 <SkillBadge name="Docker" />
                 <SkillBadge name="Vercel" />
                 <SkillBadge name="Postman" />
-                <SkillBadge name="CI/CD" />
-                <SkillBadge name="Figma" />
-                <SkillBadge name="Agile" />
               </div>
             </div>
           </div>
