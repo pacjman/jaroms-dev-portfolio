@@ -87,7 +87,7 @@ export default function Portfolio() {
             <div className="w-full md:w-1/3 flex justify-center">
               <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-primary">
                 <img
-                  src="/profile-photo.png"
+                  src="/profile-photo.jpg"
                   alt="Jarom Jones - Software Engineer"
                   className="w-full h-full object-cover"
                 />
