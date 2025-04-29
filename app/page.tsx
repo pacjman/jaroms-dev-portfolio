@@ -280,12 +280,12 @@ export default function Portfolio() {
                       <div>
                         <p className="text-xs sm:text-sm text-gray-400">GitHub</p>
                         <a
-                          href="https://github.com/jaromjones"
+                          href="https://github.com/pacjman"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="text-sm sm:text-base text-white hover:text-primary transition-colors"
                         >
-                          github.com/jaromjones
+                          github.com/pacjman
                         </a>
                       </div>
                     </div>
@@ -325,7 +325,7 @@ export default function Portfolio() {
             </div>
             <div className="flex gap-4">
               <a
-                href="https://github.com/jaromjones"
+                href="https://github.com/pacjman"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-primary transition-colors"
