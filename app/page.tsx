@@ -129,7 +129,7 @@ export default function Portfolio() {
               description="This very website you're viewing, built with modern web technologies and a focus on performance."
               tags={["Next.js", "Tailwind CSS", "Framer Motion", "Vercel"]}
               imageUrl="/placeholder.svg?height=200&width=400"
-              githubUrl="#"
+              githubUrl="https://github.com/pacjman/jaroms-dev-portfolio"
               liveUrl="#"
             />
             <ProjectCard
